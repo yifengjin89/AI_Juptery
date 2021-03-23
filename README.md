@@ -1,1 +1,1 @@
-# AI_Juptery
+# AI_Jupyter
